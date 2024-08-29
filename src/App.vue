@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img class="mx-auto" alt="Vue logo" src="./assets/logo.png">
+    <div class="pt-4">111</div>
   </div>
 </template>
 
